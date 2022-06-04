@@ -31,8 +31,6 @@
    <h2 align="center">Tech I'm learning</h2> 
         <p align="center"> 
    <img align="center" alt="Bea-js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-   <img align="center" alt="Bea-php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-   <img align="center" alt="Bea-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
        </p>
   
    <h2 align="center">You can also find me here</h2> 
