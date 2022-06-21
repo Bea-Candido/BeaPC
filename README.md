@@ -1,10 +1,6 @@
     
      
-<span align="center">
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hellooo Welcome! </h2>
-
-</span>
 
    <div align="center">
          <img alt="keyboard-anime" src="https://c.tenor.com/cBmz8RTK_JsAAAAC/typing-anime.gif" width="400px">
